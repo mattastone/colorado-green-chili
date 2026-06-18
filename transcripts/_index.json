@@ -538,5 +538,12 @@
     "title": "Reviews coming soon",
     "status": "no_captions",
     "last_attempt": "2026-06-17T19:14:25.167236+00:00"
+  },
+  "uXx_bxhvXbU": {
+    "title": "Green Chile Reviews Ep. 84 - Rigo's Mexican Restaurant",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_84_-_Rigos_Mexican_Restaurant_uXx_bxhvXbU.txt",
+    "fetched_at": "2026-06-18T16:20:22.040379+00:00",
+    "source": "api"
   }
 }

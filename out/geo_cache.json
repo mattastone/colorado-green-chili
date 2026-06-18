@@ -688,5 +688,11 @@
     "lon": -105.0188611,
     "address": "Los Gallitos Taqueria, 2630, West Alameda Avenue, Denver, Colorado, 80219, United States",
     "precision": "restaurant"
+  },
+  "Rigo's Mexican Restaurant|Greeley": {
+    "lat": 40.4233142,
+    "lon": -104.7091322,
+    "address": "Greeley, Colorado (approx.)",
+    "precision": "city"
   }
 }
