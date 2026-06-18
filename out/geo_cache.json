@@ -1,0 +1,692 @@
+{
+  "__city__|Broomfield": {
+    "lat": 39.9403995,
+    "lon": -105.05208,
+    "address": "Broomfield, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Jus' Burritos|Broomfield": {
+    "lat": 39.914927,
+    "lon": -105.0824385,
+    "address": "Jus Burritos, 7502, Outdoor Dining Patio Area, Broomfield, Colorado, 80020, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Boulder": {
+    "lat": 40.0149856,
+    "lon": -105.270545,
+    "address": "Boulder, Colorado (approx.)",
+    "precision": "city"
+  },
+  "La Choza|Boulder": {
+    "lat": 40.0555,
+    "lon": -105.28266,
+    "address": "La Choza, 4457, Broadway, Holiday, Boulder, Boulder County, Colorado, 80304, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Fort Collins": {
+    "lat": 40.5871782,
+    "lon": -105.0770113,
+    "address": "Fort Collins, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Rio Grande Mexican Restaurant|Fort Collins": {
+    "lat": 40.5871782,
+    "lon": -105.0770113,
+    "address": "Fort Collins, Colorado (approx., chain match was 116km away)",
+    "precision": "city"
+  },
+  "__city__|Loveland": {
+    "lat": 40.3977612,
+    "lon": -105.07498,
+    "address": "Loveland, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Senor Rafael at the Mexican Inn|Loveland": {
+    "lat": 40.3977612,
+    "lon": -105.07498,
+    "address": "Loveland, Colorado (approx.)",
+    "precision": "city"
+  },
+  "__city__|Denver": {
+    "lat": 39.7392364,
+    "lon": -104.984862,
+    "address": "Denver, Colorado (approx.)",
+    "precision": "city"
+  },
+  "El Tejado|Denver": {
+    "lat": 39.7392364,
+    "lon": -104.984862,
+    "address": "Denver, Colorado (approx.)",
+    "precision": "city"
+  },
+  "El Taco De Mexico|Denver": {
+    "lat": 39.7276374,
+    "lon": -104.9982893,
+    "address": "El Taco De Mexico, 714, North Santa Fe Drive, La Alma\u2013Lincoln Park, Denver, Colorado, 80204, United States",
+    "precision": "restaurant"
+  },
+  "Monaghan's Bar and Grill|Denver": {
+    "lat": 39.7342327,
+    "lon": -104.9863534,
+    "address": "Stoney's Bar and Grill, 1111, Lincoln Street, Denver, CO",
+    "precision": "restaurant"
+  },
+  "__city__|Frederick": {
+    "lat": 40.0986895,
+    "lon": -104.9383159,
+    "address": "Frederick, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Gabe's Cafe|Frederick": {
+    "lat": 40.0875534,
+    "lon": -104.9354812,
+    "address": "Gabe's Cafe, 8th Street, Dacono, Weld County, Colorado, 80530, United States",
+    "precision": "restaurant"
+  },
+  "La Fiesta|Denver": {
+    "lat": 39.5493903,
+    "lon": -104.8863171,
+    "address": "Fiesta Terrace, Heritage Hills, Lone Tree, Douglas County, Colorado, 80124, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Longmont": {
+    "lat": 40.1672117,
+    "lon": -105.101928,
+    "address": "Longmont, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Abuelita's|Longmont": {
+    "lat": 40.1672117,
+    "lon": -105.101928,
+    "address": "Longmont, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Ricco's Burritos|Denver": {
+    "lat": 39.7372915,
+    "lon": -104.9991762,
+    "address": "Ricco's Burritos, 1355, West 13th Avenue, La Alma\u2013Lincoln Park, Denver, Colorado, 80204, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Northglenn": {
+    "lat": 39.9100858,
+    "lon": -104.987552,
+    "address": "Northglenn, Colorado (approx.)",
+    "precision": "city"
+  },
+  "El Mirador|Northglenn": {
+    "lat": 39.9029038,
+    "lon": -104.9962724,
+    "address": "El Mirador, 11370, Huron Street, Northglenn, Adams County, Colorado, 80234, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Brighton": {
+    "lat": 39.983721,
+    "lon": -104.8110775,
+    "address": "Brighton, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Don Juan|Brighton": {
+    "lat": 39.983721,
+    "lon": -104.8110775,
+    "address": "Brighton, Colorado (approx., chain match was 127km away)",
+    "precision": "city"
+  },
+  "Gomez Burritos|Denver": {
+    "lat": 39.7372915,
+    "lon": -104.9991762,
+    "address": "Ricco's Burritos, 1355, Santa Fe Drive, Denver, CO",
+    "precision": "restaurant"
+  },
+  "__city__|LaSalle": {
+    "lat": 39.6700274,
+    "lon": -104.9373525,
+    "address": "LaSalle, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Jem's Cafe La Salle|LaSalle": {
+    "lat": 39.6700274,
+    "lon": -104.9373525,
+    "address": "LaSalle, Colorado (approx.)",
+    "precision": "city"
+  },
+  "__city__|Greeley": {
+    "lat": 40.4233142,
+    "lon": -104.7091322,
+    "address": "Greeley, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Alberto's|Greeley": {
+    "lat": 40.4233142,
+    "lon": -104.7091322,
+    "address": "Greeley, Colorado (approx.)",
+    "precision": "city"
+  },
+  "The Armadillo|LaSalle": {
+    "lat": 39.6970721,
+    "lon": -104.813219,
+    "address": "The Armadillo, 15001, East Mississippi Avenue, Aurora, Arapahoe County, Colorado, 80012, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Lakewood": {
+    "lat": 39.7085736,
+    "lon": -105.0846694,
+    "address": "Lakewood, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Moose Hill|Lakewood": {
+    "lat": 39.7404585,
+    "lon": -105.1322048,
+    "address": "Moose Hill Cantina, 11911, West Colfax Avenue, Lakewood, Jefferson County, Colorado, 80215, United States",
+    "precision": "restaurant"
+  },
+  "Salsas|Denver": {
+    "lat": 39.7403182,
+    "lon": -104.882118,
+    "address": "Tacos y Salsas, 9103, East Colfax Avenue, Aurora, Adams County, Colorado, 80010, United States",
+    "precision": "restaurant"
+  },
+  "TJ's|Lakewood": {
+    "lat": 39.7178003,
+    "lon": -105.0796441,
+    "address": "TJ Maxx, 98, South Wadsworth Boulevard, Lakewood, Jefferson County, Colorado, 80226, United States",
+    "precision": "restaurant"
+  },
+  "Jaime's|Lakewood": {
+    "lat": 39.6816563,
+    "lon": -105.0570507,
+    "address": "Jaime's Mexican Restaurant, 1910, South Depew Street, Denver, Colorado, 80227, United States",
+    "precision": "restaurant"
+  },
+  "Island Grill|Fort Collins": {
+    "lat": 40.5515606,
+    "lon": -105.0597792,
+    "address": "Island Grill, 2601, South Lemay Avenue, Fort Collins, Larimer County, Colorado, 80525, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Niwot": {
+    "lat": 40.1016754,
+    "lon": -105.1534902,
+    "address": "Niwot, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Niwot Market|Niwot": {
+    "lat": 40.1011281,
+    "lon": -105.167165,
+    "address": "Niwot Market, Niwot Road, Niwot, Boulder County, Colorado, 80544, United States",
+    "precision": "restaurant"
+  },
+  "La Casita Mexican Cuisine|Fort Collins": {
+    "lat": 40.5822751,
+    "lon": -105.1073398,
+    "address": "La Casita Mexican Cuisine, 1720, West Mulberry Street, Fort Collins, Larimer County, Colorado, 80521, United States",
+    "precision": "restaurant"
+  },
+  "Consuelo's Express|Fort Collins": {
+    "lat": 40.5773059,
+    "lon": -105.057576,
+    "address": "Consuelo's Express, 726, South Lemay Avenue, Fort Collins, Larimer County, Colorado, 80524, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Thornton": {
+    "lat": 39.8695516,
+    "lon": -104.985181,
+    "address": "Thornton, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Las Palmas|Thornton": {
+    "lat": 39.9164209,
+    "lon": -104.9419149,
+    "address": "Las Palmas, East 121st Avenue, Mission Trace, Eastlake, Thornton, Adams County, Colorado, 80614, United States",
+    "precision": "restaurant"
+  },
+  "300 Suns|Longmont": {
+    "lat": 40.1599152,
+    "lon": -105.1012374,
+    "address": "300 Suns Brewing, 335, 1st Avenue, Longmont, Boulder County, Colorado, 80501, United States",
+    "precision": "restaurant"
+  },
+  "Village Coffee Shop|Boulder": {
+    "lat": 40.01561,
+    "lon": -105.263389,
+    "address": "Village Coffee Shop, 1605, Folsom Street, Goss-Grove, Boulder, Boulder County, Colorado, 80302, United States",
+    "precision": "restaurant"
+  },
+  "Tacos Don Jose's|Longmont": {
+    "lat": 40.1984331,
+    "lon": -105.1039988,
+    "address": "Tacos Don Jose's, 2255, Main Street, Longmont, Boulder County, Colorado, 80501, United States",
+    "precision": "restaurant"
+  },
+  "Tacos El Comelon|Broomfield": {
+    "lat": 39.9403995,
+    "lon": -105.05208,
+    "address": "Broomfield, Colorado (approx.)",
+    "precision": "city"
+  },
+  "__city__|Aurora": {
+    "lat": 39.7401441,
+    "lon": -104.8733376,
+    "address": "Aurora, Colorado (approx.)",
+    "precision": "city"
+  },
+  "El Lucerito Jr|Aurora": {
+    "lat": 39.7680125,
+    "lon": -104.7729129,
+    "address": "El Lucerito Jr., North Walden Circle, Aurora, Adams County, Colorado, 80249, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Louisville": {
+    "lat": 39.977763,
+    "lon": -105.1319296,
+    "address": "Louisville, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Loco Hermanos|Louisville": {
+    "lat": 39.9656354,
+    "lon": -105.1620943,
+    "address": "Loco Hermanos Burritos, 318, South McCaslin Boulevard, Louisville, Boulder County, Colorado, 80027, United States",
+    "precision": "restaurant"
+  },
+  "Goodfellas Diner|Longmont": {
+    "lat": 40.1520635,
+    "lon": -105.1038886,
+    "address": "Goodfella's, 623, Ken Pratt Boulevard, Longmont, CO",
+    "precision": "restaurant"
+  },
+  "Don Juan|LaSalle": {
+    "lat": 39.6700274,
+    "lon": -104.9373525,
+    "address": "LaSalle, Colorado (approx., chain match was 93km away)",
+    "precision": "city"
+  },
+  "Cocina Y Cantina|Loveland": {
+    "lat": 40.3977612,
+    "lon": -105.07498,
+    "address": "Loveland, Colorado (approx., chain match was 79km away)",
+    "precision": "city"
+  },
+  "La Casa Del Burrito|Broomfield": {
+    "lat": 39.9164607,
+    "lon": -105.0855845,
+    "address": "La Casa Del Burrito, 1384, US 287, Broomfield, Colorado, 80020, United States",
+    "precision": "restaurant"
+  },
+  "Senor Ric's|Aurora": {
+    "lat": 39.5939915,
+    "lon": -104.7434062,
+    "address": "Se\u00f1or Chicken Mexican Restaurant, 6780, South Liverpool Street, Aurora, CO",
+    "precision": "restaurant"
+  },
+  "__city__|Centennial": {
+    "lat": 39.579155,
+    "lon": -104.8769227,
+    "address": "Centennial, Colorado (approx.)",
+    "precision": "city"
+  },
+  "El Senor Sol|Centennial": {
+    "lat": 39.6083752,
+    "lon": -105.1465098,
+    "address": "El Se\u00f1or Sol, South Zang Street, Jefferson County, Colorado, 80127, United States",
+    "precision": "restaurant"
+  },
+  "Noonan's|Aurora": {
+    "lat": 39.6758048,
+    "lon": -104.8336192,
+    "address": "Noonan's Tavern, 13521, East Iliff Avenue, Aurora, Arapahoe County, Colorado, 80014, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Lyons": {
+    "lat": 40.224432,
+    "lon": -105.270532,
+    "address": "Lyons, Colorado (approx.)",
+    "precision": "city"
+  },
+  "La Mariposa|Lyons": {
+    "lat": 40.2219459,
+    "lon": -105.2640231,
+    "address": "La Mariposa, 112, Main Street, Lyons, Boulder County, Colorado, 80540, United States",
+    "precision": "restaurant"
+  },
+  "El Cielo|Loveland": {
+    "lat": 40.4076928,
+    "lon": -105.108409,
+    "address": "El Cielo, 2225, West Eisenhower Boulevard, Loveland, Larimer County, Colorado, 80537, United States",
+    "precision": "restaurant"
+  },
+  "El Chubby's|Aurora": {
+    "lat": 39.6954918,
+    "lon": -104.827896,
+    "address": "El Chubby's, 1191, South Abilene Street, Aurora, Arapahoe County, Colorado, 80012, United States",
+    "precision": "restaurant"
+  },
+  "Lucero's|Denver": {
+    "lat": 39.7372129,
+    "lon": -104.9931592,
+    "address": "Lucero's Bail Bonds, 1315, Delaware Street, Golden Triangle, Denver, Colorado, 80204, United States",
+    "precision": "restaurant"
+  },
+  "Las Delicias|": {
+    "lat": 39.7005129,
+    "lon": -104.9383547,
+    "address": "Las Delicias, 4301, East Kentucky Avenue, Glendale, Arapahoe County, Colorado, 80246, United States",
+    "precision": "restaurant"
+  },
+  "Corona's Mexican Grill|": {
+    "lat": 39.9444577,
+    "lon": -105.0124959,
+    "address": "Corona's Mexican Grill, 2255, West 136th Avenue, Broomfield, Colorado, 80023, United States",
+    "precision": "restaurant"
+  },
+  "The Cherry Cricket|Broomfield": {
+    "lat": 39.9147515,
+    "lon": -105.0549641,
+    "address": "The Cherry Cricket, 1280, East 1st Avenue, Broomfield, Colorado, 80020, United States",
+    "precision": "restaurant"
+  },
+  "Los Arcos Express|": {
+    "lat": 39.8631571,
+    "lon": -105.0070198,
+    "address": "Los Arcos Express, 1612, West 92nd Avenue, Federal Heights, Adams County, Colorado, 80260, United States",
+    "precision": "restaurant"
+  },
+  "La Casita|Denver": {
+    "lat": 39.7664811,
+    "lon": -105.0115796,
+    "address": "Tamales by La Casita, 3561, Tejon Street, Highland, Denver, Colorado, 80211, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Lafayette": {
+    "lat": 39.9935959,
+    "lon": -105.089705,
+    "address": "Lafayette, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Amanecer Food Truck|Lafayette": {
+    "lat": 39.9938985,
+    "lon": -105.0907053,
+    "address": "Taco Wagon Food Truck, 503, South Public Road, Lafayette, CO",
+    "precision": "restaurant"
+  },
+  "Wapos Cantina Boulder|Boulder": {
+    "lat": 40.2009168,
+    "lon": -105.1030415,
+    "address": "Rosa Cantina, 2333, Main Street, Longmont, Colorado",
+    "precision": "restaurant"
+  },
+  "Camargo Tamales Restaurant|Denver": {
+    "lat": 39.776215,
+    "lon": -105.015045,
+    "address": "Camargo Tamales Restaurant, 2300, West 44th Avenue, Sunnyside, Denver, Colorado, 80211, United States",
+    "precision": "restaurant"
+  },
+  "Verde|Boulder": {
+    "lat": 40.0306629,
+    "lon": -105.2576416,
+    "address": "VERDE, 3070, 28th Street, Boulder, Boulder County, Colorado, 80301, United States",
+    "precision": "restaurant"
+  },
+  "Limon Y Sal|Broomfield": {
+    "lat": 39.9403995,
+    "lon": -105.05208,
+    "address": "Broomfield, Colorado (approx.)",
+    "precision": "city"
+  },
+  "__city__|Commerce City": {
+    "lat": 39.8083196,
+    "lon": -104.9338675,
+    "address": "Commerce City, Colorado (approx.)",
+    "precision": "city"
+  },
+  "El Jardin|Commerce City": {
+    "lat": 39.8290525,
+    "lon": -104.9128215,
+    "address": "Cantina @ El Jardin, 6460, East 73rd Avenue, Commerce City, Adams County, Colorado, 80022, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Erie": {
+    "lat": 40.0502623,
+    "lon": -105.049981,
+    "address": "Erie, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Si Senor Mexican Food|Erie": {
+    "lat": 40.0502623,
+    "lon": -105.049981,
+    "address": "Erie, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Rosa Mexican Kitchen|Thornton": {
+    "lat": 39.9553591,
+    "lon": -104.98439,
+    "address": "Rosa Mexican Kitchen, 14322, Lincoln Street, The Grove, Thornton, Adams County, Colorado, 80023, United States",
+    "precision": "restaurant"
+  },
+  "Ted'z Place Restaurant and Lounge|Commerce City": {
+    "lat": 39.8083196,
+    "lon": -104.9338675,
+    "address": "Commerce City, Colorado (approx.)",
+    "precision": "city"
+  },
+  "__city__|Fort Lupton": {
+    "lat": 40.0847055,
+    "lon": -104.813027,
+    "address": "Fort Lupton, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Carnitas Estilo Michoacan|Fort Lupton": {
+    "lat": 40.0847055,
+    "lon": -104.813027,
+    "address": "Fort Lupton, Colorado (approx.)",
+    "precision": "city"
+  },
+  "__city__|Colorado": {
+    "lat": 39.1181615,
+    "lon": -108.6857405,
+    "address": "Colorado, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Santiagos Mexican Restaurant|Colorado": {
+    "lat": 39.1100566,
+    "lon": -108.6418487,
+    "address": "El Mescal Family Mexican Restaurant and Bar, 2210, US Highway 6 and 50, Grand Junction, CO",
+    "precision": "restaurant"
+  },
+  "Taqueria La Sierra|Fort Lupton": {
+    "lat": 40.0862087,
+    "lon": -104.810306,
+    "address": "Taqueria La Sierra, 720, Denver Avenue, Fort Lupton, Weld County, Colorado, 80621, United States",
+    "precision": "restaurant"
+  },
+  "La Casa Del Rey 40 years of greatness|Commerce City": {
+    "lat": 39.8083196,
+    "lon": -104.9338675,
+    "address": "Commerce City, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Las Dalias|Lakewood": {
+    "lat": 39.6816863,
+    "lon": -105.0842121,
+    "address": "Las Dalias, 7800, West Jewell Avenue, Lakewood, Jefferson County, Colorado, 80232, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Glendale": {
+    "lat": 39.7048155,
+    "lon": -104.933508,
+    "address": "Glendale, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Las Delicias|Glendale": {
+    "lat": 39.7005129,
+    "lon": -104.9383547,
+    "address": "Las Delicias, 4301, East Kentucky Avenue, Glendale, Arapahoe County, Colorado, 80246, United States",
+    "precision": "restaurant"
+  },
+  "Corona's Mexican Grill|Broomfield": {
+    "lat": 39.9444577,
+    "lon": -105.0124959,
+    "address": "Corona's Mexican Grill, 2255, West 136th Avenue, Broomfield, Colorado, 80023, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Federal Heights": {
+    "lat": 39.8591279,
+    "lon": -105.015631,
+    "address": "Federal Heights, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Los Arcos Express|Federal Heights": {
+    "lat": 39.8631571,
+    "lon": -105.0070198,
+    "address": "Los Arcos Express, 1612, West 92nd Avenue, Federal Heights, Adams County, Colorado, 80260, United States",
+    "precision": "restaurant"
+  },
+  "Maria Elena's|Lakewood": {
+    "lat": 39.7187275,
+    "lon": -105.0821269,
+    "address": "Maria Elena Mexican Restaurant, West 1st Avenue, Lakewood, Jefferson County, Colorado, 80226, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Westminster": {
+    "lat": 39.8366528,
+    "lon": -105.0372046,
+    "address": "Westminster, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Senor Burritos|Westminster": {
+    "lat": 39.7535407,
+    "lon": -105.110016,
+    "address": "Se\u00f1or Burritos, Kipling Street, Lakewood, Jefferson County, Colorado, 80215, United States",
+    "precision": "restaurant"
+  },
+  "Big City Roadhouse|Greeley": {
+    "lat": 40.4233142,
+    "lon": -104.7091322,
+    "address": "Greeley, Colorado (approx.)",
+    "precision": "city"
+  },
+  "__city__|Wheat Ridge": {
+    "lat": 39.766098,
+    "lon": -105.0772063,
+    "address": "Wheat Ridge, Colorado (approx.)",
+    "precision": "city"
+  },
+  "El Jefe.|Wheat Ridge": {
+    "lat": 39.776268,
+    "lon": -105.0172202,
+    "address": "El Jefe, 2450, West 44th Avenue, Sunnyside, Denver, Colorado, 80211, United States",
+    "precision": "restaurant"
+  },
+  "Alberto's Express|Greeley": {
+    "lat": 40.4227132,
+    "lon": -104.6923838,
+    "address": "Aunt Helen\u2019s Express, 942, 9th Avenue, Greeley, CO",
+    "precision": "restaurant"
+  },
+  "Parkway Cafe|Boulder": {
+    "lat": 40.0249477,
+    "lon": -105.2432948,
+    "address": "Parkway Cafe, 4700, Pearl Street, Boulder, Boulder County, Colorado, 80301, United States",
+    "precision": "restaurant"
+  },
+  "Cafe Mexico|Westminster": {
+    "lat": 39.9135245,
+    "lon": -104.9767341,
+    "address": "Cafe Mexico, 120th Ave MUP, Washington Center, Northglenn, Adams County, Colorado, 80233, United States",
+    "precision": "restaurant"
+  },
+  "Santo|Boulder": {
+    "lat": 40.0259292,
+    "lon": -105.2812294,
+    "address": "Santo, 1265, Alpine Avenue, Washington Village, Boulder, Boulder County, Colorado, 80302, United States",
+    "precision": "restaurant"
+  },
+  "The Brutal Poodle|Denver": {
+    "lat": 39.6809869,
+    "lon": -104.9878142,
+    "address": "Brutal Poodle, 1967, South Broadway, Denver, Colorado",
+    "precision": "restaurant"
+  },
+  "Los Gallitos|": {
+    "lat": 39.7109408,
+    "lon": -105.0188611,
+    "address": "Los Gallitos Taqueria, 2630, West Alameda Avenue, Denver, Colorado, 80219, United States",
+    "precision": "restaurant"
+  },
+  "Efrain's|Lafayette": {
+    "lat": 39.9973932,
+    "lon": -105.0902091,
+    "address": "Efrain's, 101, East Cleveland Street, Lafayette, Boulder County, Colorado, 80026, United States",
+    "precision": "restaurant"
+  },
+  "Ana's Mexican Grill|Westminster": {
+    "lat": 39.9147939,
+    "lon": -105.0214214,
+    "address": "Ana's Mexican Grill, 2821, West 120th Avenue, Westminster, Adams County, Colorado, 80234, United States",
+    "precision": "restaurant"
+  },
+  "Chile con Quesadilla|Longmont": {
+    "lat": 40.1672117,
+    "lon": -105.101928,
+    "address": "Longmont, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Las Palmeras|Longmont": {
+    "lat": 40.1551058,
+    "lon": -105.1029972,
+    "address": "Las Palmeras, 199, South Main Street, Longmont, Boulder County, Colorado, 80501, United States",
+    "precision": "restaurant"
+  },
+  "DNVR Bar|Denver": {
+    "lat": 39.7401929,
+    "lon": -104.959954,
+    "address": "The DNVR Bar, 2239, East Colfax Avenue, Denver, Colorado, 80206, United States",
+    "precision": "restaurant"
+  },
+  "Chili Shack.|": {
+    "lat": 39.7544901,
+    "lon": -104.9903841,
+    "address": "Chili Shack, 2148, Larimer Street, Five Points, Denver, Colorado, 80294, United States",
+    "precision": "restaurant"
+  },
+  "The Original Chubby's Denver|": {
+    "lat": null,
+    "lon": null,
+    "address": "",
+    "precision": ""
+  },
+  "Tamale Kitchen|Broomfield": {
+    "lat": 39.7483944,
+    "lon": -105.0536587,
+    "address": "Tamale Kitchen, 2045, Sheridan Boulevard, Edgewater, Colorado, 80214, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Lewisville": {
+    "lat": null,
+    "lon": null,
+    "address": "",
+    "precision": ""
+  },
+  "Mudrocks Tap & Tavern|Lewisville": {
+    "lat": null,
+    "lon": null,
+    "address": "",
+    "precision": ""
+  },
+  "Old Santa Fe|Lewisville": {
+    "lat": 39.6117145,
+    "lon": -105.0057078,
+    "address": "Old Santa Fe Mexican Grill, 1500, West Littleton Boulevard, Littleton, Arapahoe County, Colorado, 80120, United States",
+    "precision": "restaurant"
+  },
+  "Chico's Mexican Food|Broomfield": {
+    "lat": 39.9306416,
+    "lon": -105.0338415,
+    "address": "Chico's Mexican Food, 12920, Lowell Boulevard, Broomfield, Colorado, 80020, United States",
+    "precision": "restaurant"
+  },
+  "Los Gallitos|Denver": {
+    "lat": 39.7109408,
+    "lon": -105.0188611,
+    "address": "Los Gallitos Taqueria, 2630, West Alameda Avenue, Denver, Colorado, 80219, United States",
+    "precision": "restaurant"
+  }
+}
