@@ -1,0 +1,12 @@
+# Claude Code local state
+.claude/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated artifacts — rebuilt by `make analyze`
+out/
+index.html
