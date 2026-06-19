@@ -694,5 +694,11 @@
     "lon": -104.7091322,
     "address": "Greeley, Colorado (approx.)",
     "precision": "city"
+  },
+  "Big Mama's Burritos|Westminster": {
+    "lat": 39.8382504,
+    "lon": -105.024291,
+    "address": "Big Mama Burritos, 7790, Federal Boulevard, Westminster, Adams County, Colorado, 80221, United States",
+    "precision": "restaurant"
   }
 }

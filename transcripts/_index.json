@@ -545,5 +545,12 @@
     "path": "transcripts/001_Green_Chile_Reviews_Ep_84_-_Rigos_Mexican_Restaurant_uXx_bxhvXbU.txt",
     "fetched_at": "2026-06-18T16:20:22.040379+00:00",
     "source": "api"
+  },
+  "gsE7BvWxaF8": {
+    "title": "Green Chile Reviews Ep 85 - Big Mama's Burritos #greenchile",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_85_-_Big_Mamas_Burritos_greenchile_gsE7BvWxaF8.txt",
+    "fetched_at": "2026-06-19T23:56:14.464285+00:00",
+    "source": "api"
   }
 }
