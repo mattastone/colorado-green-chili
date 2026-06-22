@@ -102,6 +102,7 @@ CITY_OVERRIDES = {
 # Video IDs that are channel intro/meta videos, not actual reviews.
 EXCLUDE_VIDS = {
     "Z9zW5pPLD3A",  # Channel intro — no restaurant visit
+    "aADf-tg-xTs",  # New Website Launch announcement — no restaurant visit
 }
 
 

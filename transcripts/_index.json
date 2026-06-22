@@ -552,5 +552,26 @@
     "path": "transcripts/001_Green_Chile_Reviews_Ep_85_-_Big_Mamas_Burritos_greenchile_gsE7BvWxaF8.txt",
     "fetched_at": "2026-06-19T23:56:14.464285+00:00",
     "source": "api"
+  },
+  "NKap3osw5ww": {
+    "title": "Green Chile Reviews Ep. 87 - Wondervu Cafe",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_87_-_Wondervu_Cafe_NKap3osw5ww.txt",
+    "fetched_at": "2026-06-22T22:12:05.009091+00:00",
+    "source": "api"
+  },
+  "W3GmSYDWcvk": {
+    "title": "Green Chile Reviews Ep 86 - Butter My Biscuit",
+    "status": "ok",
+    "path": "transcripts/002_Green_Chile_Reviews_Ep_86_-_Butter_My_Biscuit_W3GmSYDWcvk.txt",
+    "fetched_at": "2026-06-22T22:12:08.716306+00:00",
+    "source": "api"
+  },
+  "aADf-tg-xTs": {
+    "title": "UPDATE - New Website Launch greenchilereviews.co  #greenchile",
+    "status": "ok",
+    "path": "transcripts/003_UPDATE_-_New_Website_Launch_greenchilereviewsco_greenchile_aADf-tg-xTs.txt",
+    "fetched_at": "2026-06-22T22:12:12.656787+00:00",
+    "source": "api"
   }
 }
