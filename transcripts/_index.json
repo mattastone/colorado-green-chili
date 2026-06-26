@@ -532,12 +532,12 @@
   "Kxgq89D_gjQ": {
     "title": "Episode 1 review coming soon #greenchile #foodreview",
     "status": "no_captions",
-    "last_attempt": "2026-06-17T19:14:21.379941+00:00"
+    "last_attempt": "2026-06-26T02:28:12.110548+00:00"
   },
   "BLrWvqxf-Wc": {
     "title": "Reviews coming soon",
     "status": "no_captions",
-    "last_attempt": "2026-06-17T19:14:25.167236+00:00"
+    "last_attempt": "2026-06-26T02:28:15.815932+00:00"
   },
   "uXx_bxhvXbU": {
     "title": "Green Chile Reviews Ep. 84 - Rigo's Mexican Restaurant",
@@ -572,6 +572,27 @@
     "status": "ok",
     "path": "transcripts/003_UPDATE_-_New_Website_Launch_greenchilereviewsco_greenchile_aADf-tg-xTs.txt",
     "fetched_at": "2026-06-22T22:12:12.656787+00:00",
+    "source": "api"
+  },
+  "1a2bAyiRE3E": {
+    "title": "Green Chile Reviews Ep. 90 - Taqueria Rancho Alegre",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_90_-_Taqueria_Rancho_Alegre_1a2bAyiRE3E.txt",
+    "fetched_at": "2026-06-26T02:26:58.883663+00:00",
+    "source": "api"
+  },
+  "3F6WtMrVEtk": {
+    "title": "Green Chile Reviews Ep. 89 - El Dorado",
+    "status": "ok",
+    "path": "transcripts/002_Green_Chile_Reviews_Ep_89_-_El_Dorado_3F6WtMrVEtk.txt",
+    "fetched_at": "2026-06-26T02:27:02.808771+00:00",
+    "source": "api"
+  },
+  "xDvvuZdmtJs": {
+    "title": "Green Chile Reviews Ep. 88 - Stephanie's Cafe",
+    "status": "ok",
+    "path": "transcripts/003_Green_Chile_Reviews_Ep_88_-_Stephanies_Cafe_xDvvuZdmtJs.txt",
+    "fetched_at": "2026-06-26T02:27:06.936944+00:00",
     "source": "api"
   }
 }

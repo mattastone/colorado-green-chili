@@ -724,5 +724,29 @@
     "lon": null,
     "address": "",
     "precision": ""
+  },
+  "Taqueria Rancho Alegre|Greeley": {
+    "lat": 40.3926598,
+    "lon": -104.6915324,
+    "address": "Taqueria Rancho Alegre, 2729, 8th Avenue, Garden City, Weld County, Colorado, 80631, United States",
+    "precision": "restaurant"
+  },
+  "__city__|Golden": {
+    "lat": 39.7546349,
+    "lon": -105.22058,
+    "address": "Golden, Colorado (approx.)",
+    "precision": "city"
+  },
+  "El Dorado|Golden": {
+    "lat": 39.758668,
+    "lon": -105.2264638,
+    "address": "El Dorado Mexican Restaurant, 720, Arapahoe Street, Golden, Jefferson County, Colorado, 80403, United States",
+    "precision": "restaurant"
+  },
+  "Stephanie's Cafe|Commerce City": {
+    "lat": 39.8073967,
+    "lon": -104.9306227,
+    "address": "Mama's Cafe, North Vasquez Boulevard, Commerce City, Colorado",
+    "precision": "restaurant"
   }
 }
