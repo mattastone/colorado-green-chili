@@ -748,5 +748,17 @@
     "lon": -104.9306227,
     "address": "Mama's Cafe, North Vasquez Boulevard, Commerce City, Colorado",
     "precision": "restaurant"
+  },
+  "Efrain's of Boulder|": {
+    "lat": 40.0168699,
+    "lon": -105.261786,
+    "address": "Efrain's of Boulder, McGuckin Way, The Village Shopping Center, Boulder, Boulder County, Colorado, 80309, United States",
+    "precision": "restaurant"
+  },
+  "Los Marcelos|Golden": {
+    "lat": 39.7661143,
+    "lon": -105.2325597,
+    "address": "Los Marcelos, North Washington Avenue, Canyon Point, Golden, Jefferson County, Colorado, 80403, United States",
+    "precision": "restaurant"
   }
 }

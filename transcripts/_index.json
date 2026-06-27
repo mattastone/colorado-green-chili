@@ -594,5 +594,19 @@
     "path": "transcripts/003_Green_Chile_Reviews_Ep_88_-_Stephanies_Cafe_xDvvuZdmtJs.txt",
     "fetched_at": "2026-06-26T02:27:06.936944+00:00",
     "source": "api"
+  },
+  "pT1wZ3G2vDA": {
+    "title": "Green Chile Reviews Ep 92 - Efrain's of Boulder #greenchile",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_92_-_Efrains_of_Boulder_greenchile_pT1wZ3G2vDA.txt",
+    "fetched_at": "2026-06-27T23:04:16.914366+00:00",
+    "source": "api"
+  },
+  "d9IMEaAVniU": {
+    "title": "Green Chile Reviews Ep. 91 - Los Marcelos",
+    "status": "ok",
+    "path": "transcripts/002_Green_Chile_Reviews_Ep_91_-_Los_Marcelos_d9IMEaAVniU.txt",
+    "fetched_at": "2026-06-27T23:04:21.463256+00:00",
+    "source": "api"
   }
 }
