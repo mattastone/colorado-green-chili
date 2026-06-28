@@ -496,6 +496,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 function color(score) {
+  if (score >= 4.9) return '#1a4fa0';
   if (score >= 4.5) return '#2c7a2c';
   if (score >= 4.0) return '#7ab32a';
   if (score >= 3.5) return '#e0b020';
@@ -531,7 +532,7 @@ const legend = L.control({ position: 'bottomright' });
 legend.onAdd = function () {
   const div = L.DomUtil.create('div', 'legend');
   div.innerHTML = '<h3>Chili scale</h3>' +
-    [[4.5,'4.5+'],[4.0,'4.0–4.4'],[3.5,'3.5–3.9'],[3.0,'3.0–3.4'],[0,'<3.0']]
+    [[4.9,'4.9–5.0'],[4.5,'4.5–4.8'],[4.0,'4.0–4.4'],[3.5,'3.5–3.9'],[3.0,'3.0–3.4'],[0,'<3.0']]
     .map(([s, l]) => '<i style="background:' + color(s) + '"></i> ' + l).join('<br/>');
   return div;
 };
