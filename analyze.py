@@ -522,6 +522,8 @@ data.forEach(d => {
       <span class="score" style="color:${color(d.score)}">${d.score} / 5</span>
       ${d.tags ? '<div class="tags">' + d.tags + '</div>' : ''}
       <a href="${d.url}" target="_blank">Watch Ep. ${d.episode}</a>
+      &middot;
+      <a href="https://www.google.com/maps/search/?api=1&query=${d.lat},${d.lon}" target="_blank">View on Google Maps</a>
     </div>
   `);
   bounds.push([d.lat, d.lon]);
