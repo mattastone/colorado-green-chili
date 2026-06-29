@@ -760,5 +760,11 @@
     "lon": -105.2325597,
     "address": "Los Marcelos, North Washington Avenue, Canyon Point, Golden, Jefferson County, Colorado, 80403, United States",
     "precision": "restaurant"
+  },
+  "Jerry D's 2.0|": {
+    "lat": null,
+    "lon": null,
+    "address": "",
+    "precision": ""
   }
 }

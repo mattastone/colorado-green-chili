@@ -608,5 +608,12 @@
     "path": "transcripts/002_Green_Chile_Reviews_Ep_91_-_Los_Marcelos_d9IMEaAVniU.txt",
     "fetched_at": "2026-06-27T23:04:21.463256+00:00",
     "source": "api"
+  },
+  "_b727JuiZKw": {
+    "title": "Green Chile Reviews Ep. 93 - Jerry D's 2.0",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_93_-_Jerry_Ds_20__b727JuiZKw.txt",
+    "fetched_at": "2026-06-29T02:34:43.463106+00:00",
+    "source": "api"
   }
 }
