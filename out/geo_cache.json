@@ -766,5 +766,11 @@
     "lon": null,
     "address": "",
     "precision": ""
+  },
+  "Los Alcatraces.|Aurora": {
+    "lat": 39.7403958,
+    "lon": -104.878502,
+    "address": "Los Toritos, 9405, East Colfax Avenue, Aurora, CO",
+    "precision": "restaurant"
   }
 }
