@@ -772,5 +772,17 @@
     "lon": -104.878502,
     "address": "Los Toritos, 9405, East Colfax Avenue, Aurora, CO",
     "precision": "restaurant"
+  },
+  "Dot's Diner|Boulder": {
+    "lat": 40.0275198,
+    "lon": -105.257489,
+    "address": "Dot's Diner, 2716, 28th Street, Boulder, Boulder County, Colorado, 80309, United States",
+    "precision": "restaurant"
+  },
+  "The Rock Restaurant and Bar|Aurora": {
+    "lat": 39.5999919,
+    "lon": -104.721078,
+    "address": "The Rock Restaurant and Bar, 22934, East Smoky Hill Road, Aurora, Arapahoe County, Colorado, 80016, United States",
+    "precision": "restaurant"
   }
 }

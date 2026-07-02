@@ -622,5 +622,19 @@
     "path": "transcripts/001_Green_Chile_Reviews_Ep_94_-_Los_Alcatraces_greenchile_8m6XFs2U3ac.txt",
     "fetched_at": "2026-06-30T04:09:06.123014+00:00",
     "source": "api"
+  },
+  "HUTAunME-zs": {
+    "title": "Green Chile Reviews Ep. 96 - Dot's Diner",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_96_-_Dots_Diner_HUTAunME-zs.txt",
+    "fetched_at": "2026-07-02T03:36:03.999947+00:00",
+    "source": "api"
+  },
+  "ngW0pQt1aOM": {
+    "title": "Green Chile Reviews Ep. 95 - The Rock Restaurant and Bar",
+    "status": "ok",
+    "path": "transcripts/002_Green_Chile_Reviews_Ep_95_-_The_Rock_Restaurant_and_Bar_ngW0pQt1aOM.txt",
+    "fetched_at": "2026-07-02T03:36:07.806641+00:00",
+    "source": "api"
   }
 }
