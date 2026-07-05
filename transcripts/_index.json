@@ -636,5 +636,33 @@
     "path": "transcripts/002_Green_Chile_Reviews_Ep_95_-_The_Rock_Restaurant_and_Bar_ngW0pQt1aOM.txt",
     "fetched_at": "2026-07-02T03:36:07.806641+00:00",
     "source": "api"
+  },
+  "wTDlFrn-xXw": {
+    "title": "Green Chile Reviews Ep 104 - Los Dos Potrillos #greenchile",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_104_-_Los_Dos_Potrillos_greenchile_wTDlFrn-xXw.txt",
+    "fetched_at": "2026-07-05T02:06:37.275759+00:00",
+    "source": "api"
+  },
+  "FftLwoXUSkE": {
+    "title": "Green Chile Reviews Ep. 99 - Fourth & Pour",
+    "status": "ok",
+    "path": "transcripts/002_Green_Chile_Reviews_Ep_99_-_Fourth_Pour_FftLwoXUSkE.txt",
+    "fetched_at": "2026-07-05T02:06:41.351719+00:00",
+    "source": "api"
+  },
+  "QXJHoyET83I": {
+    "title": "Green Chile Reviews Ep. 98 - Burrito Delight  #greenchile",
+    "status": "ok",
+    "path": "transcripts/003_Green_Chile_Reviews_Ep_98_-_Burrito_Delight_greenchile_QXJHoyET83I.txt",
+    "fetched_at": "2026-07-05T02:06:45.602457+00:00",
+    "source": "api"
+  },
+  "WXU9c2X0SCM": {
+    "title": "Green Chile Reviews Ep. 97 - La Cueva  #greenchile",
+    "status": "ok",
+    "path": "transcripts/004_Green_Chile_Reviews_Ep_97_-_La_Cueva_greenchile_WXU9c2X0SCM.txt",
+    "fetched_at": "2026-07-05T02:06:49.347409+00:00",
+    "source": "api"
   }
 }

@@ -784,5 +784,35 @@
     "lon": -104.721078,
     "address": "The Rock Restaurant and Bar, 22934, East Smoky Hill Road, Aurora, Arapahoe County, Colorado, 80016, United States",
     "precision": "restaurant"
+  },
+  "Los Dos Potrillos|Denver": {
+    "lat": 39.566533,
+    "lon": -104.9244036,
+    "address": "Los Dos Potrillos, East County Line Road, Centennial, Arapahoe County, Colorado, 80130, United States",
+    "precision": "restaurant"
+  },
+  "Fourth & Pour|Aurora": {
+    "lat": 39.7401441,
+    "lon": -104.8733376,
+    "address": "Aurora, Colorado (approx.)",
+    "precision": "city"
+  },
+  "__city__|Dacono": {
+    "lat": 40.0856806,
+    "lon": -104.9371711,
+    "address": "Dacono, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Burrito Delight|Dacono": {
+    "lat": 40.0871953,
+    "lon": -104.9320829,
+    "address": "Burrito Delight, 819, Carbondale Drive, Dacono, Weld County, Colorado, 80514, United States",
+    "precision": "restaurant"
+  },
+  "La Cueva|Denver": {
+    "lat": 39.7392364,
+    "lon": -104.984862,
+    "address": "Denver, Colorado (approx.)",
+    "precision": "city"
   }
 }
