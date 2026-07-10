@@ -664,5 +664,40 @@
     "path": "transcripts/004_Green_Chile_Reviews_Ep_97_-_La_Cueva_greenchile_WXU9c2X0SCM.txt",
     "fetched_at": "2026-07-05T02:06:49.347409+00:00",
     "source": "api"
+  },
+  "B_v-jRnxp_M": {
+    "title": "Green Chile Reviews Ep 104 - Los Dos Potrillos",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_104_-_Los_Dos_Potrillos_B_v-jRnxp_M.txt",
+    "fetched_at": "2026-07-10T12:15:33.094230+00:00",
+    "source": "api"
+  },
+  "BMUIh-oa2lo": {
+    "title": "Greens & Green Chile Ep. 1 - Todd Creek Golf Club  #golf",
+    "status": "ok",
+    "path": "transcripts/002_Greens_Green_Chile_Ep_1_-_Todd_Creek_Golf_Club_golf_BMUIh-oa2lo.txt",
+    "fetched_at": "2026-07-10T12:15:37.178574+00:00",
+    "source": "api"
+  },
+  "Bwp_bMnunNs": {
+    "title": "Green Chile Reviews Ep. 102 - Mexico City. #greenchile",
+    "status": "ok",
+    "path": "transcripts/003_Green_Chile_Reviews_Ep_102_-_Mexico_City_greenchile_Bwp_bMnunNs.txt",
+    "fetched_at": "2026-07-10T12:15:41.134457+00:00",
+    "source": "api"
+  },
+  "hMAw0rkgz6o": {
+    "title": "Green Chile Reviews Ep. 101 - Little Anita's",
+    "status": "ok",
+    "path": "transcripts/004_Green_Chile_Reviews_Ep_101_-_Little_Anitas_hMAw0rkgz6o.txt",
+    "fetched_at": "2026-07-10T12:15:44.956360+00:00",
+    "source": "api"
+  },
+  "rcn97dxO_XY": {
+    "title": "Green Chile Reviews Ep. 100 - Savina's (La Loma)",
+    "status": "ok",
+    "path": "transcripts/005_Green_Chile_Reviews_Ep_100_-_Savinas_La_Loma_rcn97dxO_XY.txt",
+    "fetched_at": "2026-07-10T12:15:48.820598+00:00",
+    "source": "api"
   }
 }

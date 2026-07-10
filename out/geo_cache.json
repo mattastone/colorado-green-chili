@@ -814,5 +814,35 @@
     "lon": -104.984862,
     "address": "Denver, Colorado (approx.)",
     "precision": "city"
+  },
+  "__city__|Ballpark": {
+    "lat": 39.7555646,
+    "lon": -104.9910548,
+    "address": "Ballpark, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Mexico City.|Ballpark": {
+    "lat": 39.7542305,
+    "lon": -104.9912,
+    "address": "Mexico City Lounge, 2115, Larimer Street, Five Points, Denver, Colorado, 80205, United States",
+    "precision": "restaurant"
+  },
+  "Little Anita's|Denver": {
+    "lat": 39.6884446,
+    "lon": -104.9399682,
+    "address": "Little Anita's - Foods of New Mexico, 1550, South Colorado Boulevard, Denver, Colorado, 80222, United States",
+    "precision": "restaurant"
+  },
+  "Savina's (La Loma)|Denver": {
+    "lat": 39.7543875,
+    "lon": -104.9962745,
+    "address": "La Loma McGregor Square, 1601, 19th Street, Denver, Colorado",
+    "precision": "restaurant"
+  },
+  "Todd Creek Golf Club|Thornton": {
+    "lat": 39.9691028,
+    "lon": -104.896845,
+    "address": "Todd Creek Golf Club, 8455, Heritage Drive, Heritage Todd Creek, Thornton, Adams County, Colorado, 80602, United States",
+    "precision": "restaurant"
   }
 }
