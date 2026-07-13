@@ -91,6 +91,11 @@ CITY_OVERRIDES = {
     "Las Delicias": "Glendale",
     "Corona's Mexican Grill": "Broomfield",
     "Los Arcos Express": "Federal Heights",
+    # Host says "made it to X in Y" or "in Lodo at X" — regex misses the city
+    "Jerry D's 2.0": "Dacono",
+    "Sam's No. 3": "Denver",
+    "D'Corazon": "Denver",
+    "Efrain's of Boulder": "Boulder",
     # Early episodes — city transcribed wrong or not said on camera
     "Los Gallitos": "Denver",
     "Chili Shack.": "Denver",
@@ -557,15 +562,17 @@ def main():
     with_city = sum(1 for r in rows if r["city"])
     print(f"Parsed {parsed} transcripts ({scored} with scores, {with_city} with cities)")
 
-    missing = [r for r in rows if not r["city"] or not r["restaurant"]]
-    if missing:
-        print(f"\n{len(missing)} rows missing restaurant or city — edit reviews.csv after writing if you want them mapped:")
-        for r in missing:
-            print(f"  Ep {r['episode']}: restaurant={r['restaurant']!r} city={r['city']!r}")
-
     overrides = load_manual_locations()
     if overrides:
         print(f"\nLoaded {len(overrides)} manual location overrides")
+
+    missing = [r for r in rows
+               if (not r["city"] or not r["restaurant"])
+               and r["video_id"] not in overrides]
+    if missing:
+        print(f"\n{len(missing)} rows missing restaurant or city — add to manual_locations.csv or CITY_OVERRIDES in analyze.py:")
+        for r in missing:
+            print(f"  Ep {r['episode']}: restaurant={r['restaurant']!r} city={r['city']!r}")
 
     if not args.no_geocode:
         print("\nGeocoding (Nominatim, ~1 req/sec)...")

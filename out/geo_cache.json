@@ -844,5 +844,23 @@
     "lon": -104.896845,
     "address": "Todd Creek Golf Club, 8455, Heritage Drive, Heritage Todd Creek, Thornton, Adams County, Colorado, 80602, United States",
     "precision": "restaurant"
+  },
+  "La Estrellita|Brighton": {
+    "lat": 39.983721,
+    "lon": -104.8110775,
+    "address": "Brighton, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Sam's No. 3|": {
+    "lat": 39.9447059,
+    "lon": -105.5109308,
+    "address": "Sam's Club, Boulder County, Colorado, 80466, United States",
+    "precision": "restaurant"
+  },
+  "D'Corazon|": {
+    "lat": 39.7500386,
+    "lon": -104.9995262,
+    "address": "D'Corazon, 1530, Blake Street, Lower Downtown, Denver, Colorado, 80202, United States",
+    "precision": "restaurant"
   }
 }

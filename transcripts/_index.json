@@ -699,5 +699,26 @@
     "path": "transcripts/005_Green_Chile_Reviews_Ep_100_-_Savinas_La_Loma_rcn97dxO_XY.txt",
     "fetched_at": "2026-07-10T12:15:48.820598+00:00",
     "source": "api"
+  },
+  "8Rmcg551s5c": {
+    "title": "Green Chile Reviews Ep. 107 - La Estrellita",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_107_-_La_Estrellita_8Rmcg551s5c.txt",
+    "fetched_at": "2026-07-13T02:10:19.279504+00:00",
+    "source": "api"
+  },
+  "F8OKvOCsOh4": {
+    "title": "Green Chile Reviews Ep. 106 - Sam's No. 3",
+    "status": "ok",
+    "path": "transcripts/002_Green_Chile_Reviews_Ep_106_-_Sams_No_3_F8OKvOCsOh4.txt",
+    "fetched_at": "2026-07-13T02:10:23.194096+00:00",
+    "source": "api"
+  },
+  "N5gzRXyj63Q": {
+    "title": "Green Chile Reviews Ep. 105 - D'Corazon",
+    "status": "ok",
+    "path": "transcripts/003_Green_Chile_Reviews_Ep_105_-_DCorazon_N5gzRXyj63Q.txt",
+    "fetched_at": "2026-07-13T02:10:27.040889+00:00",
+    "source": "api"
   }
 }
