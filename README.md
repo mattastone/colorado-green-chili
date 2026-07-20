@@ -7,7 +7,7 @@ Fetches transcripts for every Short on the [@GreenChileReviews](https://www.yout
 Requires macOS with Homebrew:
 
 ```
-brew install yt-dlp python@3.12
+brew install yt-dlp python@3.12 tesseract
 make install
 ```
 
@@ -15,10 +15,11 @@ make install
 
 | Command | Description |
 |---------|-------------|
-| `make all` | Fetch new transcripts + rebuild map |
+| `make all` | Full pipeline: fetch → analyze → addresses (OCR) → analyze |
 | `make fetch` | Fetch transcripts only |
 | `make analyze` | Rebuild map from cached transcripts (no network fetch) |
 | `make retry` | Re-attempt IP-blocked videos after rate-limit clears |
+| `make addresses` | Read addresses from thumbnails via OCR → manual_locations.csv |
 | `make serve` | Serve map at http://localhost:8765 |
 | `make clean` | Remove generated artifacts (`out/`, `index.html`) |
 
@@ -37,8 +38,8 @@ Markers are two-tiered:
 1. Find the `video_id` from the transcript filename in `transcripts/` or from the YouTube URL.
 2. Add a row to `manual_locations.csv`:
    ```
-   video_id,lat,lon,address
-   ABC123xyz,39.754,-104.990,"2148 Larimer St, Denver, CO 80205"
+   video_id,lat,lon,address,# restaurant
+   ABC123xyz,39.754,-104.990,"2148 Larimer St, Denver, CO 80205",# Example
    ```
 3. Run `make analyze` — manual entries always win over geocoder output.
 
@@ -60,6 +61,8 @@ make fetch URL="https://www.youtube.com/@OtherChannel/shorts"
 transcripts.py        Fetch loop: yt-dlp lists Shorts, youtube-transcript-api pulls
                       captions, yt-dlp falls back when the API gets IP-blocked.
 analyze.py            Parses cached transcripts -> reviews.csv, geocodes, renders map.
+thumbnail_addresses.py  OCR script: reads address text from YouTube thumbnail images
+                      and writes to manual_locations.csv. Works best for Ep 80+.
 manual_locations.csv  Hand-placed lat/lon overrides keyed by video_id.
 index.html            Generated Leaflet map (repo root). Rebuilt by make analyze.
 

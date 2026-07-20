@@ -11,8 +11,10 @@ transcripts.py        Fetch loop: yt-dlp lists Shorts, youtube-transcript-api pu
                       captions, yt-dlp falls back when the API gets IP-blocked.
 analyze.py            Parses cached transcripts -> reviews.csv, geocodes via
                       Nominatim (with Photon fallback), renders index.html.
+thumbnail_addresses.py  OCR script: reads address text from YouTube thumbnail images
+                      and writes to manual_locations.csv (newest entry first). Works best for Ep 80+.
 Makefile              Entry point. Run `make` for a help summary.
-requirements.txt      Python deps. yt-dlp is brew-installed, not pip.
+requirements.txt      Python deps. yt-dlp and tesseract are brew-installed, not pip.
 manual_locations.csv  Hand-placed lat/lon for spots OSM lacks. Source of truth.
 
 transcripts/          Cached per-video .txt files (NEVER hand-edit).
@@ -31,7 +33,7 @@ out/                  Generated artifacts. Safe to delete (`make clean`).
 ## Setup (once)
 
 ```
-brew install yt-dlp python@3.12
+brew install yt-dlp python@3.12 tesseract
 make install
 ```
 
@@ -40,9 +42,10 @@ Python 3.10+ required (`str | None` syntax). The venv is `.venv/` in the repo ro
 ## Common commands
 
 ```
-make all          # fetch new transcripts + rebuild map
+make all          # full pipeline: fetch → analyze → addresses (OCR) → analyze
 make retry        # re-attempt IP-blocked videos (use after rate-limit clears)
 make analyze      # rebuild map only (e.g. after editing manual_locations.csv)
+make addresses    # OCR thumbnails → write precise addresses to manual_locations.csv
 make serve        # http://localhost:8765 in a browser
 ```
 
@@ -60,17 +63,17 @@ For each restaurant, analyze.py tries in order:
    the city centroid, downgrade to the centroid (chain mismatch).
 4. **Photon** (komoot's OSM-based geocoder, free) for fuzzy name matches
    Nominatim missed. Filtered to amenity types: restaurant/cafe/bar/etc.
-5. **`manual_locations.csv`** — hand-placed lat/lon by `video_id`. Always wins
-   over geocoder output. Use this when (4) still misses.
 
-Rows whose `video_id` is in `manual_locations.csv` skip steps 1–4 entirely.
+Rows whose `video_id` appears in `manual_locations.csv` **skip steps 1–4 entirely**
+and use the stored lat/lon directly.
 
 ## Manual location overrides
 
-`manual_locations.csv` (repo root): `video_id,lat,lon,address`. Generate a
-starter template by piping the city-precision rows of `out/reviews.csv` into
-a CSV with empty lat/lon, then look up the actual addresses. Re-run
-`make analyze` to apply.
+`manual_locations.csv` (repo root): `video_id,lat,lon,address,# restaurant`
+(5 columns; the last is a comment for human readability). Entries are kept in
+reverse-chronological order (newest at top after header). Re-run `make analyze`
+to apply. For city-precision rows, try `make addresses` first (OCR from thumbnails),
+then enter any remaining addresses manually.
 
 ## Known quirks
 
@@ -86,6 +89,10 @@ a CSV with empty lat/lon, then look up the actual addresses. Re-run
 
 - **Title parsing** depends on the host's "Ep. N - Restaurant" format. Episodes
   1–5 use "Episode N -" instead; both forms are handled.
+
+- **Non-review Shorts** (channel intros, announcements) are filtered via
+  `EXCLUDE_VIDS` in analyze.py — a set of `video_id` strings. Add to it when a
+  new non-review Short appears in the listing.
 
 - **Two-tier markers on the map.** Solid+opaque = precise restaurant address.
   Dashed+translucent = city centroid (geocoder couldn't find the spot).
