@@ -111,6 +111,7 @@ def _trim_street(s: str) -> str:
 def _clean_address(s: str) -> str:
     s = re.sub(r"\s+", " ", s).strip().strip(",")
     s = re.sub(r"\bCO[.\s]*1?(\d{5})\b", r"CO \1", s)
+    s = re.sub(r"\bSte\b", "St", s)  # OCR noise: trailing 'e' on "St"
     return s
 
 
