@@ -720,5 +720,61 @@
     "path": "transcripts/003_Green_Chile_Reviews_Ep_105_-_DCorazon_N5gzRXyj63Q.txt",
     "fetched_at": "2026-07-13T02:10:27.040889+00:00",
     "source": "api"
+  },
+  "HcPi3jmH7rI": {
+    "title": "Green Chile Reviews Ep. 115 - Clear Creek Cidery and Eatery",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_115_-_Clear_Creek_Cidery_and_Eatery_HcPi3jmH7rI.txt",
+    "fetched_at": "2026-07-20T21:58:01.647982+00:00",
+    "source": "api"
+  },
+  "RD99cLG0B-8": {
+    "title": "Green Chile Reviews Ep. 114 - Kikos",
+    "status": "ok",
+    "path": "transcripts/002_Green_Chile_Reviews_Ep_114_-_Kikos_RD99cLG0B-8.txt",
+    "fetched_at": "2026-07-20T21:58:05.610057+00:00",
+    "source": "api"
+  },
+  "l1KX9zHfQAM": {
+    "title": "Green Chile Reviews Ep. 113 - Rolling Smoke BBQ",
+    "status": "ok",
+    "path": "transcripts/003_Green_Chile_Reviews_Ep_113_-_Rolling_Smoke_BBQ_l1KX9zHfQAM.txt",
+    "fetched_at": "2026-07-20T21:58:09.373713+00:00",
+    "source": "api"
+  },
+  "KFkzz0anoDA": {
+    "title": "Green Chile Reviews Ep. 112 - Bubba Chinos",
+    "status": "ok",
+    "path": "transcripts/004_Green_Chile_Reviews_Ep_112_-_Bubba_Chinos_KFkzz0anoDA.txt",
+    "fetched_at": "2026-07-20T21:58:13.096401+00:00",
+    "source": "api"
+  },
+  "_9eM_KOr1Ac": {
+    "title": "Green Chile Reviews Ep. 111 - FlyteCo Tower",
+    "status": "ok",
+    "path": "transcripts/005_Green_Chile_Reviews_Ep_111_-_FlyteCo_Tower__9eM_KOr1Ac.txt",
+    "fetched_at": "2026-07-20T21:58:16.843491+00:00",
+    "source": "api"
+  },
+  "MbGq3Fjy9zY": {
+    "title": "Green Chile Reviews Ep. 110 - Spicy Tacos",
+    "status": "ok",
+    "path": "transcripts/006_Green_Chile_Reviews_Ep_110_-_Spicy_Tacos_MbGq3Fjy9zY.txt",
+    "fetched_at": "2026-07-20T21:58:20.785548+00:00",
+    "source": "api"
+  },
+  "60jNeFIElr4": {
+    "title": "Green Chile Reviews Ep. 109 - Tommyknocker",
+    "status": "ok",
+    "path": "transcripts/007_Green_Chile_Reviews_Ep_109_-_Tommyknocker_60jNeFIElr4.txt",
+    "fetched_at": "2026-07-20T21:58:24.648860+00:00",
+    "source": "api"
+  },
+  "DWIYovF7XHY": {
+    "title": "Green Chile Reviews Ep. 108 - Jabanero's Mexican Grill",
+    "status": "ok",
+    "path": "transcripts/008_Green_Chile_Reviews_Ep_108_-_Jabaneros_Mexican_Grill_DWIYovF7XHY.txt",
+    "fetched_at": "2026-07-20T21:58:28.340851+00:00",
+    "source": "api"
   }
 }

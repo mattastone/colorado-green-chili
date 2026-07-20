@@ -862,5 +862,59 @@
     "lon": -104.9995262,
     "address": "D'Corazon, 1530, Blake Street, Lower Downtown, Denver, Colorado, 80202, United States",
     "precision": "restaurant"
+  },
+  "__city__|Idaho Springs": {
+    "lat": 39.7425969,
+    "lon": -105.5136365,
+    "address": "Idaho Springs, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Clear Creek Cidery and Eatery|Idaho Springs": {
+    "lat": 39.7419751,
+    "lon": -105.5171905,
+    "address": "Clear Creek Cidery & Eatery, 1446, Miner Street, Idaho Springs, Colorado",
+    "precision": "restaurant"
+  },
+  "Kikos|Brighton": {
+    "lat": 39.983721,
+    "lon": -104.8110775,
+    "address": "Brighton, Colorado (approx.)",
+    "precision": "city"
+  },
+  "Rolling Smoke BBQ|": {
+    "lat": 39.7531228,
+    "lon": -104.8775966,
+    "address": "Rolling Smoke BBQ, 2501, East 25th Avenue, Stanley Marketplace, Aurora, Adams County, Colorado, 80010, United States",
+    "precision": "restaurant"
+  },
+  "Bubba Chinos|Brighton": {
+    "lat": 39.983721,
+    "lon": -104.8110775,
+    "address": "Brighton, Colorado (approx., chain match was 35km away)",
+    "precision": "city"
+  },
+  "FlyteCo Tower|": {
+    "lat": 39.7606335,
+    "lon": -104.8920228,
+    "address": "FlyteCo Tower, East Martin Luther King Jr Boulevard, Denver, Colorado, 80238, United States",
+    "precision": "restaurant"
+  },
+  "Spicy Tacos|Brighton": {
+    "lat": 39.9901724,
+    "lon": -104.820225,
+    "address": "Tacos Los Vaqueros, 238, North Main Street, Brighton, CO",
+    "precision": "restaurant"
+  },
+  "Tommyknocker|": {
+    "lat": 37.8529648,
+    "lon": -106.9267546,
+    "address": "Tommyknocker Tavern, 107, Wall Street, Creede, Mineral County, Colorado, 81130, United States",
+    "precision": "restaurant"
+  },
+  "Jabanero's Mexican Grill|Aurora": {
+    "lat": 39.6161032,
+    "lon": -104.8140201,
+    "address": "Jabanero's Mexican Grill, 5584, South Parker Road, Aurora, Arapahoe County, Colorado, 80015, United States",
+    "precision": "restaurant"
   }
 }
