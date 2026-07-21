@@ -916,5 +916,11 @@
     "lon": -104.8140201,
     "address": "Jabanero's Mexican Grill, 5584, South Parker Road, Aurora, Arapahoe County, Colorado, 80015, United States",
     "precision": "restaurant"
+  },
+  "Santa Fe 2.0|Denver": {
+    "lat": 39.7304826,
+    "lon": -104.9986462,
+    "address": "Santa Fe Arts District, Denver, Colorado, United States",
+    "precision": "restaurant"
   }
 }

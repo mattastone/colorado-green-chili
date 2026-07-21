@@ -776,5 +776,12 @@
     "path": "transcripts/008_Green_Chile_Reviews_Ep_108_-_Jabaneros_Mexican_Grill_DWIYovF7XHY.txt",
     "fetched_at": "2026-07-20T21:58:28.340851+00:00",
     "source": "api"
+  },
+  "kRC1byKdYV4": {
+    "title": "Green Chile Reviews Ep. 116 - Santa Fe 2.0",
+    "status": "ok",
+    "path": "transcripts/001_Green_Chile_Reviews_Ep_116_-_Santa_Fe_20_kRC1byKdYV4.txt",
+    "fetched_at": "2026-07-21T14:01:56.294358+00:00",
+    "source": "api"
   }
 }
